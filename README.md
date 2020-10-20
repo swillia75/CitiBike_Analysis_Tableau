@@ -2,7 +2,7 @@
 
 # CitiBike_Analysis_Tableau
 
-![](Citibike business improvement story (1).png)
+![](CitiBike_Analysis_Tableau/Citibike business improvement story (1).png)
 
 
 Project Description
@@ -27,11 +27,11 @@ Instructions
 
 Dashboard by Gender
 
-![](Citibike business improvement story (3).png)
+![](CitiBike_Analysis_Tableau/Citibike business improvement story (3).png)
 
 Dashboard By Location
 
-![](Citibike business improvement story (1).png)
+![](CitiBike_Analysis_Tableau/Citibike business improvement story (1).png)
  
 Files
 
