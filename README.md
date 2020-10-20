@@ -1,4 +1,9 @@
+
+
 # CitiBike_Analysis_Tableau
+
+![](Citibike business improvement story (1).png)
+
 
 Project Description
 
@@ -22,18 +27,11 @@ Instructions
 
 Dashboard by Gender
 
-
-
-
-
-https://public.tableau.com/profile/shawn.williams3242#!/vizhome/CitiBikeAnalyticalReport/Citibikebusinessimprovementstory
-
-
-
-
- 
+![](Citibike business improvement story (3).png)
 
 Dashboard By Location
+
+![](Citibike business improvement story (1).png)
  
 Files
 
